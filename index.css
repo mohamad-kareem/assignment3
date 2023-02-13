@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    padding:0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+.aboutme{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+h1{
+    color:orangered;
+    text-align:center;
+    margin-top: 50px;
+}
+h2{ color: orangered;
+    
+
+}
+p{
+    color: white;
+    font: size 90px;;
+    margin-left: 10px;
+ 
+}
+#front-layer{
+    width: 650px;
+    height: 900px;
+    background-color:#0c0b0b;
+    margin: top 10%;;
+    margin: auto;
+    }
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 4px orangered;
+    margin-left: 10px;
+    margin-top: -70px;
+}
+ul.a{
+    color: white;
+    margin-left:30px ;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+tablez ,th ,td{
+ border: 1px solid orangered;
+ color: white;
+ width: 200px;
+ height: 10px;
+
+}
+a{
+    color: white;
+}
+
+ 
